@@ -1,4 +1,4 @@
-// ==User   Script==
+// ==User Script==
 // @name         Chess.com GM Tag
 // @namespace    http://chess.com/gm-tag-script
 // @version      0.1
@@ -7,9 +7,9 @@
 // @match        https://www.chess.com/*
 // @grant        none
 // @icon         https://www.chess.com/favicon.ico
-// @updateURL    https://raw.githubusercontent.com/Kalimitas/GMTag/refs/heads/main/gmtag
-// @downloadURL  https://raw.githubusercontent.com/Kalimitas/GMTag/refs/heads/main/gmtag
-// ==/User   Script==
+// @updateURL    https://raw.githubusercontent.com/Kalimitas/GMTag/main/gmtag.user.js
+// @downloadURL  https://raw.githubusercontent.com/Kalimitas/GMTag/main/gmtag.user.js
+// ==/User Script==
 
 (function() {
     'use strict';
